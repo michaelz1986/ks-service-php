@@ -1,0 +1,19 @@
+{
+    "companyName": "KS Service",
+    "email": "office@ks-service.at",
+    "phone": "+43 664 54439",
+    "address": "Kärnten, Österreich",
+    "openingHours": "Mo–Sa 8:00–18:00",
+    "emergencyService": "Notdienst 24/7",
+    "websiteTitle": "KS Service – Stapler & Flurförderzeuge",
+    "websiteDescription": "Gebrauchte und generalüberholte Elektro-, Diesel- und Hubwagen in Kärnten.",
+    "adminPasswordHash": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi",
+    "smtpHost": "",
+    "smtpPort": "587",
+    "smtpUser": "",
+    "smtpPass": "",
+    "smtpFrom": "",
+    "smtpFromName": "KS Service",
+    "smtpTo": "",
+    "smtpEnabled": false
+}
