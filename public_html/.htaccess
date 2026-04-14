@@ -1,4 +1,8 @@
 Options -Indexes
+
+# Increase upload limits for images
+php_value upload_max_filesize 20M
+php_value post_max_size 25M
 RewriteEngine On
 
 # Uploads protection: allow reading files, deny directory listing
